@@ -1,6 +1,6 @@
 # BaSP-M2022-Etapa-1
 
-En la semana 1 está la landing page solo con html
+En la semana 1 de esta etapa está la landing page solo con html,
 la función de esta landing es brindar información sobre la empresa (TrackGenix).
 
 ## Navbar

@@ -1,15 +1,15 @@
 # BaSP-M2022-Etapa-1
+This is the first stage of the web application we are creating in the "Radium Rocket" course 
 
-En la semana 1 de esta etapa está la landing page solo con html,
-la función de esta landing es brindar información sobre la empresa (TrackGenix).
+## Description of the "Semana-01"
 
-## Navbar
-En el navbar se puede navegar entre distintas secciones de la web y también está la información como el e-mail y el address.
+In the first week we focus on make a html structure of the landing page
+currently the structure of html is finished
 
-## Body
+```
+html status 'complete'
+```
+## Radium Rocket Web
+[Radium Rocket](https://radiumrocket.com)
 
-En el body está la descripción de lo que es la empresa, tambien hay imagenes descriptivas y al final del body hay un formulario para que el usuario envíe sus datos, un mensaje o pregunta.
-
-## Footer
-
-En el footer hay un navbar tambien que podes obtener información adicional sobre la empresa. 
+![Radium rocket Logo](https://uspto.report/TM/90644415/mark.png)

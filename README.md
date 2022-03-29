@@ -1,4 +1,4 @@
-# BaSP-M2022-Etapa-1
+# Trackgenix
 This is the first stage of the web application we are creating in the "Radium Rocket" course 
 
 ## Description of the "Semana-01"

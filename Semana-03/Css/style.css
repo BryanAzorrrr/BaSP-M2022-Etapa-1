@@ -1,0 +1,158 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: sans-serif;
+    size: 80%;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0%;
+
+}
+
+header{
+    display: inline-block;
+    width: 100%;
+    font-family: sans-serif;
+    background-color: #50A780;
+}
+
+header .signup{
+    text-decoration:none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    font-weight: 600;
+    margin-left: 650px;
+    border-radius: 35px;
+}
+
+.signup{
+    outline: none;
+}
+.signup:hover{
+    background-color:whitesmoke;
+}
+
+header .login{
+    text-decoration: none;
+    padding: 1px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    font-weight: 600;
+    border-radius: 35px;
+    background: white;
+
+}
+
+.login:hover{
+    background-color:whitesmoke;
+}
+
+.imgTitulo{
+    margin-top: 3%;
+    margin-left: 15%;
+    position: center;
+    height: 200px;
+}
+
+.main{
+    height: 1280px;
+    width: 1024px;
+    padding: 0%;
+    margin-left: 200px;
+}
+
+aside {
+    font-family: sans-serif;
+    margin: 0%;
+    position: absolute;
+    height: 1024px;
+    width: 200px;
+    background-color: #50A780;
+}
+
+.menu{
+    font-style: none;
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.menu li{
+    margin-bottom: 15px;
+}
+
+.li{
+    text-align: left;
+    font-size: 20px;
+}
+
+.logo{
+    margin-top: 1%;
+    margin-left: 10%;
+    max-width: 66px;
+    max-height: 66px;
+}
+
+.tittle{
+    margin-left: 18%;
+    margin-top: -6%;
+}
+
+h1 , h2{
+    font-size: 30px;
+}
+
+.presentation{
+    margin-left: 50%;
+    margin-top: -20%;
+    width: 250px;
+}
+.iconos{
+    margin-top: 8%;
+}
+
+.iconos img{
+    width: 70px;
+    margin-left: 15%;
+    display: inline-block;
+}
+
+
+.box{
+    margin-top: 20%;
+}
+
+.navfooter{
+    width: 100%;
+    background-color: #50A780;
+}
+
+.navfooter ul{
+    display: inline-block;
+    padding-right: 250px;
+}
+
+.navfooter h3{
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer{
+    font-size: 14px;
+    text-align: center;
+}
+
+.icons img{
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
